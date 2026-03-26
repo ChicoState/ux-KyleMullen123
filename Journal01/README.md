@@ -21,4 +21,4 @@
 
 ![Filezilla App](../assets/Journal01/Filezilla6.png)
 
-<p>When I was able to connect to my other network, I found out my sizes for each folder that contained all of my files and </p>
+<p>When I was able to connect to my other network, I found out my sizes for each folder that contained all of my files and what locations my files were in which was a big help for me as the user. As I was browsing through the app, there was some features that had description in what to do when you want to connect to another network and what network was used to connect to the network. However, there was some features that wouldn't make sense for the user like the tabs up top of the app would be confusing for the user since there are pictures that would let the user know what to do, but there isn't a descriptive instruction in how to use that feature. Overall, I thought that this app had some good features that would make the user have a good experience in Filezilla and there should be some descriptive instructions in trying to learn how to use Filezilla so they can have a good experience with the app.</p>
