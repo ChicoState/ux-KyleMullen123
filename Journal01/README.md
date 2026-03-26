@@ -9,12 +9,16 @@
 
 ![Google Image Search for Filezilla](../assets/Journal01/Filezilla1.png)
 
-<p>Just then I was happy, and I searched up Filezilla to find a download link. So far it had a lot of actions that I was comfortable with and there was familiarity that I felt during the download link search. This site gave me a clear path to download Filezilla, using bright colors and large font.</p>
+<p>Just then I was happy, and I searched up Filezilla to find a download link. So far it had a lot of actions that I was comfortable with and there was familiarity that I felt during the download link search. This site gave me a clear path to download Filezilla, using bright colors and large font. </p>
 
 ![Filezilla Home Page](../assets/Journal01/Filezilla2.png)
 
-It was followed by two paths that I stumbled my first challenge, choosing to download the client side or the server side
+<p>When I was going through the Download links for either the client side and the server side, I was confused in what to download because it lacked the instuctions for new users trying to download this software to their computer. After I figured out what to do, I downloaded the client side to my system because it had the best results for the user since they can use their app more effectively rather than trying to use the server side for their app. </p>
 
-![Filezilla Client side Page](../assets/Journal01/Filezilla3.png)
+![Filezilla App](../assets/Journal01/Filezilla5.png)
 
-![Filezilla Server side Page](../assets/Journal01/Filezilla4.png)
+<p>After all of the confusing downloads I had to do for this app, I figured out how to download this app which made it very simple in trying to install it and to use it to its full ability. After I downloaded the app, I tested out its <strong>Usability</strong> and <strong>Consistent</strong> features for this app and I figure out that I can connect to my other network where my other folders are and I was able to find out how much folders I had in my other network</p>
+
+![Filezilla App](../assets/Journal01/Filezilla6.png)
+
+<p>When I was able to connect to my other network, I found out my sizes for each folder that contained all of my files and </p>
