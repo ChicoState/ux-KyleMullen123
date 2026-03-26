@@ -8,3 +8,13 @@
 <p>Today, I know all of my files that have on my computer and it knows what files are in my personal and work computer. Whenever I need to have a specific file, it connects to a different network for me and it generates all of my files on my other network. I searched for "Filezilla" in the hopes that I can save and transfer files in this open-source platform.</p>
 
 ![Google Image Search for Filezilla](../assets/Journal01/Filezilla1.png)
+
+<p>Just then I was happy, and I searched up Filezilla to find a download link. So far it had a lot of actions that I was comfortable with and there was familiarity that I felt during the download link search. This site gave me a clear path to download Filezilla, using bright colors and large font.</p>
+
+![Filezilla Home Page](../assets/Journal01/Filezilla2.png)
+
+It was followed by two paths that I stumbled my first challenge, choosing to download the client side or the server side
+
+![Filezilla Client side Page](../assets/Journal01/Filezilla3.png)
+
+![Filezilla Server side Page](../assets/Journal01/Filezilla4.png)
