@@ -4,3 +4,5 @@
 Hi, My name is Kyle Mullen, I am a computer science major and my job interests after school are cybersecurity and software engineer.
 
 # UX Portfolio
+
+[Journal 1](/Journal01/README.md)
